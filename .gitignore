@@ -130,3 +130,6 @@ dmypy.json
 
 # Sqlite3
 *.db
+
+# Batch
+*.bat
